@@ -271,6 +271,7 @@ If you encounter any issues:
 - Tax calculation engine
 - Financial dashboard
 - User authentication system
+- Easy finance management
 
 ---
 
