@@ -25,7 +25,7 @@ const Header = () => {
               <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-lg flex items-center justify-center">
                 <CurrencyRupeeIcon className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">WealthWise</span>
+              <span className="text-xl font-bold text-gray-900">FinSync</span>
             </Link>
           </div>
 
