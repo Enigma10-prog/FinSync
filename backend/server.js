@@ -10,6 +10,7 @@ const morgan = require('morgan');
 require('dotenv').config();
 
 const connectDB = require('./config/database');
+connectDB();
 const errorHandler = require('./middleware/errorHandler');
 
 // Import routes
